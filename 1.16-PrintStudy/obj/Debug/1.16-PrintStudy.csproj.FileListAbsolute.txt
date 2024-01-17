@@ -1,0 +1,22 @@
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.exe.config
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.exe
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.pdb
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csproj.AssemblyReference.cache
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.PrintFrm.resources
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.Properties.Resources.resources
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csproj.GenerateResource.cache
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csproj.CoreCompileInputs.cache
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.exe
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.pdb
+D:\C#Print\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.Form1.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.Form1.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.PrintFrm.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\_1._16_PrintStudy.Properties.Resources.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\obj\Debug\1.16-PrintStudy.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.exe.config
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_b7y85aol9mp622\FileStorage\File\2024-01\1.16-PrintStudy\1.16-PrintStudy\1.16-PrintStudy\bin\Debug\1.16-PrintStudy.pdb
